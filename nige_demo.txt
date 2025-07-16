@@ -1,1 +1,7 @@
-Learning how to use Git
+NFC Learning how to use Git.
+
+Adding a line 2 with the notepad command.
+
+Adding a line 3 from windows
+
+Adding a line 4 from windows
